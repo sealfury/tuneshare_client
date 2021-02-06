@@ -92,7 +92,7 @@ const LoginScreen = props => {
           >
             <Fontisto
               name='spotify'
-              style={{ paddingLeft: 16 }}
+              style={{alignSelf: 'center' }}
               color='#ffffff'
               size={40}
             />
